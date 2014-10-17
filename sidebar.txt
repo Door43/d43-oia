@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oia:home|Door43 (oia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oia|d43-oia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oia/archive/master.zip|d43-oia.zip]]
+
+**Recent Changes**
+{{changes>ns = oia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oia|Ethnologue data]]
+
